@@ -1,6 +1,6 @@
 # CPSC-349-Portfolio
 
-**<u>How to run page:</u>**
+**<u>  How to run page:</u>**
 1. Download the zip file
 2. Open new window on VS Code
 3. Open Folder 'CPSC-349-Portfolio' on VS Code
